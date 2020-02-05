@@ -10,6 +10,6 @@ citation: 'Rummel, A.D., Swartz, S.M., Marsh, R.L., 2019. Warm bodies, cool wing
 
 ---
 
-[Download paper here](http://academicpages.github.io/files/Rummel_etal_2019_BioLet.pdf)
+[Download paper here](http://arummel.github.io/files/Rummel_etal_2019_BioLet.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
