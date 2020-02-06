@@ -8,13 +8,4 @@ date: 2016-08-01
 location: "Providence, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I taught in gross medical anatomy lab sessions as part of the team-taught Human Anatomy staff. 
