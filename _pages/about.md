@@ -17,4 +17,4 @@ from a biomechanical and physiological perspective, if their flight muscles are 
 
 My dissertation explores the thermal sensitivity of bat flight at multiple scales, from the molecule to the whole organism.
 
-![whatever](arummel.github.io/images/profile.png)
+![arummel.github.io/images/profile.png](arummel.github.io/images/profile.png)
