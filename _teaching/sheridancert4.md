@@ -6,4 +6,3 @@ permalink: /teaching/sheridancert4
 venue: "Brown University, Warren Alpert Medical School"
 date: 2019-05-23
 location: "Providence, USA"
----
