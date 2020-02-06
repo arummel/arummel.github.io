@@ -1,7 +1,7 @@
 ---
 title: "Warm bodies, cool wings: regional heterothermy in flying bats"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink:
 excerpt:'Many endothermic animals experience variable limb temperatures, even as
 they tightly regulate core temperature. The limbs are often cooler than the
 core at rest, but because the large locomotor muscles of the limbs produce
