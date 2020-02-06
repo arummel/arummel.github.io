@@ -2,9 +2,9 @@
 title: "Gross Human Anatomy"
 collection: teaching
 type: "Medical year 1"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2016-anatomy
 venue: "Brown University, Warren Alpert Medical School"
-date: 2016-2020
+date: 2016
 location: "Providence, USA"
 ---
 
