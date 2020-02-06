@@ -15,4 +15,6 @@ their wings are vulnerable to substantial radiative and conductive heat loss, ev
 heat loss, bat wing muscles are so poorly insulated as to be clearly visible through the skin. How do bats maintain flight performance 
 from a biomechanical and physiological perspective, if their flight muscles are consistently cool?   
 
-My dissertation explores the thermal sensitivity of bat flight at multiple scales, from the molecule to the whole organism. 
+My dissertation explores the thermal sensitivity of bat flight at multiple scales, from the molecule to the whole organism.
+
+![/images/profile.png]
