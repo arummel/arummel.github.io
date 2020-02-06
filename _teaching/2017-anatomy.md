@@ -1,5 +1,5 @@
 ---
-title: "Gross Human Anatomy"
+title: "Gross Human Anatomy 2017-2018"
 collection: teaching
 type: "Medical curriculum year 1"
 permalink: /teaching/2017-anatomy
