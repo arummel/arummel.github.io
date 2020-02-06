@@ -47,4 +47,4 @@ that are expected to slow contractile properties.
 
 [Download paper here](http://arummel.github.io/files/Rummel_etal_2019_BioLet.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Rummel, A.D., Swartz, S.M., Marsh, R.L., 2019. Warm bodies, cool wings: regional heterothermy in flying bats. Biology Letters 15, 5. https://doi.org/10.1098/rsbl.2019.0530
