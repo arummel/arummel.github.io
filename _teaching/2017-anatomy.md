@@ -7,4 +7,6 @@ venue: "Brown University, Warren Alpert Medical School"
 date: 2017-08-01
 location: "Providence, USA"
 ---
+Lecture and laboratory
+----------------------
 I taught in gross medical anatomy lab sessions as part of the team-taught Human Anatomy staff. 
