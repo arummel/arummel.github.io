@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 -------
-* Ph.D, Ecology and Evolutionary Biology, Brown University, 2021 (expected)
-* M.S. (transitional), Brown University, 2018
-* B.S. in Geophysical Sciences, B.A. in Biological Sciences, University of Chicago, 2014
+Ph.D, Ecology and Evolutionary Biology, Brown University, 2021 (expected)  
+M.S. (transitional), Brown University, 2018  
+B.S. in Geophysical Sciences, B.A. in Biological Sciences, University of Chicago, 2014  
 
 Publications
 -------
@@ -42,15 +42,15 @@ Awards
   $5,000, Brown University
 
 2010–2014  
-**University Scholarship**
+**University Scholarship**  
 University of Chicago
 
 2014  
-**Metcalf Fellowship**
+**Metcalf Fellowship**  
 University of Chicago, Marine Biological Laboratory
 
 2013  
-**Dean’s Fund for Student Life**
+**Dean’s Fund for Student Life**  
 $1200, University of Chicago
 
 
