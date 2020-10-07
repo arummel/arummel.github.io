@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,17 +12,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Ph.D, Ecology and Evolutionary Biology, Brown University 2021 (expected)
+M.S. (transitional), Brown University, 2018
+B.S. in Geophysical Sciences, B.A. in Biological Sciences, University of Chicago, 2014
 
-##Publications
+Publications
+-------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Awards
 ======
+
+
 
 Teaching
 ======
