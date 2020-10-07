@@ -16,14 +16,6 @@ redirect_from:
 </object>
 
 
-<html>
-<body>
-
-</body>
-<script type="text/javascript">
-    document.location = "arummel.github.io/files/cv.pdf"
-</script>
-</html>
 
 [Download CV here](http://arummel.github.io/files/cv.pdf)
 
