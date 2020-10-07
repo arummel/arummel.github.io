@@ -26,12 +26,12 @@ Publications
 Awards
 -------
 2017–2021  
-  **National Defense Science and Engineering Graduate Fellowship**  
-  $386,500, Air Force Research Laboratory, Department of Defense
+  > **National Defense Science and Engineering Graduate Fellowship**  
+  > $386,500, Air Force Research Laboratory, Department of Defense
 
 2019  
-  **Ecology and Evolutionary Biology Doctoral Dissertation Enhancement Grant**  
-  $9,550, Brown University
+  > **Ecology and Evolutionary Biology Doctoral Dissertation Enhancement Grant**  
+  > $9,550, Brown University
 
 2015–2018  
   **Presidential Fellowship**  
