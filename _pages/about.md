@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth-year PhD candidate in the Swartz Lab in the Department of Ecology and Evolutionary Biology at Brown University.
+I'm a sixth-year PhD candidate in the Swartz Lab in the Department of Ecology and Evolutionary Biology at Brown University.
 
 Bats, the only mammals capable of powered flight, find themselves in a unique thermal environment. Since they are primarily active at night
 their wings are vulnerable to substantial radiative and conductive heat loss, even in warm ambient conditions. Despite the potential for
