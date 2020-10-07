@@ -25,6 +25,7 @@ redirect_from:
 </script>
 </html>
 
+[Download CV here](http://arummel.github.io/files/cv.pdf)
 
 Education
 ======
