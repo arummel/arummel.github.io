@@ -9,7 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-![pancakes](/files/Rummel_CV_2020)
+![pancakes](/files/cv.pdf)
+
+<object data="https://arummel.github.io/cv.pdf/" type="application/pdf" width="700px" height="700px">
+    <embed src="https://arummel.github.io/cv.pdf/">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://arummel.github.io/cv.pdf/">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
 
 Education
 ======
