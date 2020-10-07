@@ -21,7 +21,7 @@ redirect_from:
 
 </body>
 <script type="text/javascript">
-    document.location = "robin.github.io/files/cv.pdf"
+    document.location = "arummel.github.io/files/cv.pdf"
 </script>
 </html>
 
