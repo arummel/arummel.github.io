@@ -26,25 +26,32 @@ Publications
 Awards
 -------
 2017–2021  
-**National Defense Science and Engineering Graduate Fellowship**, Air Force Research Laboratory, Department of Defense, $386,500
+  **National Defense Science and Engineering Graduate Fellowship**  
+  $386,500, Air Force Research Laboratory, Department of Defense
 
 2019  
-Ecology and Evolutionary Biology Doctoral Dissertation Enhancement Grant, $9,550, Brown University
+  **Ecology and Evolutionary Biology Doctoral Dissertation Enhancement Grant**  
+  $9,550, Brown University
 
 2015–2018  
-**Presidential Fellowship**, Brown University, $108,000
+  **Presidential Fellowship**  
+  $108,000, Brown University
 
 2015  
-Special Dean’s Award, $5,000, Brown University
+  **Special Dean’s Award**  
+  $5,000, Brown University
 
 2010–2014  
-University Scholarship, University of Chicago
+**University Scholarship**
+University of Chicago
 
 2014  
-Metcalf Fellowship, University of Chicago, Marine Biological Laboratory
+**Metcalf Fellowship**
+University of Chicago, Marine Biological Laboratory
 
 2013  
-Dean’s Fund for Student Life, University of Chicago, $1200
+**Dean’s Fund for Student Life**
+$1200, University of Chicago
 
 
 Teaching
