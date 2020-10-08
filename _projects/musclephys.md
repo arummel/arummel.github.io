@@ -1,8 +1,8 @@
 ---
-title: "Muscle physiology"
+title: "Muscle contractile physiology across temperatures"
 collection: projects
 permalink: /projects/musclephys/
-excerpt: "excerpt for muscle phys"
+excerpt: "Cold muscles are better suited to function at low temperatures"
 location: Providence, RI
 ---
 

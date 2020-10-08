@@ -1,8 +1,8 @@
 ---
-title: "Biochem"
+title: "Muscle biochemistry and its temperature sensitivity"
 collection: projects
 permalink: /projects/biochem/
-excerpt: "Excerpt for biochem"
+excerpt: "Is enzyme thermal stability a factor in the temperature sensitivity of whole muscle contractile properties?"
 location: Providence, RI
 ---
 

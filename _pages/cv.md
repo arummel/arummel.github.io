@@ -56,16 +56,35 @@ $1200, University of Chicago
 
 Teaching
 -------
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Gross Human Anatomy
+ ======
+ **Warren Alpert Medical School**  
+ Laboratory Assistant and Lecturer  
+2019–2020  
+2017–2018  
+2016–2017  
+
+Biological Design
+======
+**Brown University**  
+Teaching Assistant  
+Ecology and Evolutionary Biology  
+2018  
+
+Sheridan Center for Teaching and Learning
+======
+**Graduate Teaching Consultant**, Certificate IV  
+2018
+**Teaching Seminar: Reflective Teaching**, Certificate I  
+2017  
 
 Mentorship
 -------
-  * Summer 2015: Research Assistant
-    * Github University
-    * Duties included: Tagging issues
-    * Supervisor: Professor Git
+  **AY 2020-2021**
+  * Takuma Kobayashi: Biochemistry Honors Thesis  
+  **AY 2019-2020**
+  * Melissa Sierra: Ecology and Evolutionary Biology Honors Thesis  
+  * Taylor Walker: supervised independent study for credit  
 
 Contributed presentations
 -------

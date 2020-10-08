@@ -1,8 +1,8 @@
 ---
-title: "In vivo muscle temperature"
+title: "_In vivo_ muscle temperature measurement"
 collection: projects
 permalink: /projects/muscletemp/
-excerpt: "why isn't this working"
+excerpt: "Are bat wing muscles cold?"
 location: Providence, RI
 ---
 testing again
