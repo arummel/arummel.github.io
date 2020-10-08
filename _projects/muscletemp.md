@@ -1,8 +1,8 @@
 ---
 title: "In vivo muscle temperature"
 collection: projects
-permalink: /projects/muscletemp.md
-excerpt:
+permalink: /projects/muscletemp
+excerpt: test muscle excerpt
 location: Providence, RI
 ---
 
