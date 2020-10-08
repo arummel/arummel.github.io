@@ -5,6 +5,11 @@ permalink: /projects/
 author_profile: true
 ---
 
-Coming soon!
-
 {% include base_path %}
+
+
+Muscle physiology
+--------
+
+Bat wing membrane sensory hair distribution
+--------
