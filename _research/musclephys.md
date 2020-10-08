@@ -1,7 +1,7 @@
 ---
 title: "Muscle contractile physiology across temperatures"
-collection: projects
-permalink: /projects/musclephys/
+collection: research
+permalink: /research/musclephys/
 excerpt: "Cold muscles are better suited to function at low temperatures"
 location: Providence, RI
 order_number: 20
