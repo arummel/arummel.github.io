@@ -2,7 +2,7 @@
 title: "Muscle physiology"
 collection: projects
 permalink: /projects/musclephys/
-excerpt:
+excerpt: "excerpt for muscle phys"
 location: Providence, RI
 ---
 

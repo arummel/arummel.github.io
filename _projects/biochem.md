@@ -2,7 +2,7 @@
 title: "Biochem"
 collection: projects
 permalink: /projects/biochem/
-excerpt:
+excerpt: "Excerpt for biochem"
 location: Providence, RI
 ---
 
