@@ -7,7 +7,6 @@ excerpt: ![pancakes](/images/image-alignment-300x200.jpg)
 location: Providence, RI
 order_number: 30
 ---
-
 This is text for biochem stuff
 
 make this excerpt?
