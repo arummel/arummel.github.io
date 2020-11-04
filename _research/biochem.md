@@ -3,7 +3,7 @@ title: "Muscle biochemistry and its temperature sensitivity"
 layout: single-portfolio
 collection: research
 permalink: /research/biochem/
-excerpt: "excerpt here"
+excerpt: "<img src='/images/bio-photo.jpg' alt=''>"
 location: Providence, RI
 order_number: 30
 ---
