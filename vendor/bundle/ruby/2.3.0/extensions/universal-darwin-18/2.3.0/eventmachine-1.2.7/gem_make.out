@@ -1,0 +1,196 @@
+current directory: /Users/andrearummel/Documents/Grad/arummel.github.io/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20201104-16921-rmolpw.rb extconf.rb --with-cppflags=-I/usr/local/opt/openssl/include
+checking for main() in -lcrypto... no
+checking for openssl/ssl.h... no
+checking for main() in -lcrypto... no
+checking for openssl/ssl.h... no
+checking for main() in -lcrypto... no
+checking for openssl/ssl.h... no
+checking for main() in -lcrypto... no
+checking for openssl/ssl.h... no
+checking for rb_trap_immediate in ruby.h,rubysig.h... no
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_without_gvl() in ruby/thread.h... no
+checking for rb_thread_fd_select()... no
+checking for rb_fdset_t in ruby/intern.h... no
+checking for rb_wait_for_single_fd()... no
+checking for rb_enable_interrupt()... no
+checking for rb_time_new()... no
+checking for inotify_init() in sys/inotify.h... no
+checking for __NR_inotify_init in sys/syscall.h... no
+checking for writev() in sys/uio.h... no
+checking for pipe2() in unistd.h... no
+checking for accept4() in sys/socket.h... no
+checking for SOCK_CLOEXEC in sys/socket.h... no
+checking for sys/event.h... no
+checking for clock_gettime()... no
+checking for gethrtime()... no
+CXXFLAGS= -g -Os -pipe 
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/andrearummel/Documents/Grad/arummel.github.io/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/eventmachine-1.2.7/mkmf.log
+
+current directory: /Users/andrearummel/Documents/Grad/arummel.github.io/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext
+make "DESTDIR=" clean
+
+current directory: /Users/andrearummel/Documents/Grad/arummel.github.io/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.7/ext
+make "DESTDIR="
+compiling binder.cpp
+In file included from binder.cpp:20:
+In file included from ./project.h:25:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iostream:38:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/ios:215:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iosfwd:90:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/wchar.h:119:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/wchar.h:90:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/stdio.h:108:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h:360:88: error: expected function body after function declarator
+FILE *fmemopen(void * __restrict __buf, size_t __size, const char * __restrict __mode) __API_AVAILABLE(macos(10.13), ios(11.0), tvos(11.0), watchos(4.0));
+                                                                                       ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdio.h:361:54: error: expected function body after function declarator
+FILE *open_memstream(char **__bufp, size_t *__sizep) __API_AVAILABLE(macos(10.13), ios(11.0), tvos(11.0), watchos(4.0));
+                                                     ^
+In file included from binder.cpp:20:
+In file included from ./project.h:25:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iostream:38:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/ios:215:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iosfwd:90:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/wchar.h:119:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/wchar.h:205:60: error: expected function body after function declarator
+FILE *open_wmemstream(wchar_t ** __bufp, size_t * __sizep) __API_AVAILABLE(macos(10.13), ios(11.0), tvos(11.0), watchos(4.0));
+                                                           ^
+In file included from binder.cpp:20:
+In file included from ./project.h:25:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iostream:38:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/ios:216:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__locale:15:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/string:500:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/string_view:176:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__string:56:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/algorithm:644:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/memory:654:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/typeinfo:61:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/exception:82:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/cstdlib:86:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/stdlib.h:94:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdlib.h:188:1: error: C++ requires a type specifier for all declarations
+__API_AVAILABLE(macos(10.0)) __IOS_PROHIBITED
+^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdlib.h:188:17: error: use of undeclared identifier 'macos'
+__API_AVAILABLE(macos(10.0)) __IOS_PROHIBITED
+                ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdlib.h:188:29: error: expected ';' after top level declarator
+__API_AVAILABLE(macos(10.0)) __IOS_PROHIBITED
+                            ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdlib.h:224:56: error: expected function body after function declarator
+int ptsname_r(int fildes, char *buffer, size_t buflen) __API_AVAILABLE(macos(10.13.4), ios(11.3), tvos(11.3), watchos(4.3));
+                                                       ^
+error: missing ',' between enumerators
+In file included from binder.cpp:20:
+In file included from ./project.h:25:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iostream:38:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/ios:216:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__locale:18:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/mutex:191:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__mutex_base:17:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__threading_support:27:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread.h:73:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread/qos.h:34:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:130:4: error: redefinition of '__API_AVAILABLE'
+                        __QOS_CLASS_AVAILABLE(macos(10.10), ios(8.0)) = 0x21,
+                        ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:124:31: note: expanded from macro '__QOS_CLASS_AVAILABLE'
+#define __QOS_CLASS_AVAILABLE __API_AVAILABLE
+                              ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdlib.h:188:1: note: previous definition is here
+__API_AVAILABLE(macos(10.0)) __IOS_PROHIBITED
+^
+In file included from binder.cpp:20:
+In file included from ./project.h:25:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iostream:38:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/ios:216:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__locale:18:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/mutex:191:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__mutex_base:17:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__threading_support:27:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread.h:73:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread/qos.h:34:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:130:25: error: expected '= constant-expression' or end of enumerator definition
+                        __QOS_CLASS_AVAILABLE(macos(10.10), ios(8.0)) = 0x21,
+                                             ^
+error: missing ',' between enumerators
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:132:4: error: redefinition of '__API_AVAILABLE'
+                        __QOS_CLASS_AVAILABLE(macos(10.10), ios(8.0)) = 0x19,
+                        ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:124:31: note: expanded from macro '__QOS_CLASS_AVAILABLE'
+#define __QOS_CLASS_AVAILABLE __API_AVAILABLE
+                              ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdlib.h:188:1: note: previous definition is here
+__API_AVAILABLE(macos(10.0)) __IOS_PROHIBITED
+^
+In file included from binder.cpp:20:
+In file included from ./project.h:25:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iostream:38:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/ios:216:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__locale:18:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/mutex:191:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__mutex_base:17:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__threading_support:27:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread.h:73:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread/qos.h:34:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:132:25: error: expected '= constant-expression' or end of enumerator definition
+                        __QOS_CLASS_AVAILABLE(macos(10.10), ios(8.0)) = 0x19,
+                                             ^
+error: missing ',' between enumerators
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:134:4: error: redefinition of '__API_AVAILABLE'
+                        __QOS_CLASS_AVAILABLE(macos(10.10), ios(8.0)) = 0x15,
+                        ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:124:31: note: expanded from macro '__QOS_CLASS_AVAILABLE'
+#define __QOS_CLASS_AVAILABLE __API_AVAILABLE
+                              ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdlib.h:188:1: note: previous definition is here
+__API_AVAILABLE(macos(10.0)) __IOS_PROHIBITED
+^
+In file included from binder.cpp:20:
+In file included from ./project.h:25:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iostream:38:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/ios:216:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__locale:18:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/mutex:191:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__mutex_base:17:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__threading_support:27:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread.h:73:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread/qos.h:34:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:134:25: error: expected '= constant-expression' or end of enumerator definition
+                        __QOS_CLASS_AVAILABLE(macos(10.10), ios(8.0)) = 0x15,
+                                             ^
+error: missing ',' between enumerators
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:136:4: error: redefinition of '__API_AVAILABLE'
+                        __QOS_CLASS_AVAILABLE(macos(10.10), ios(8.0)) = 0x11,
+                        ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:124:31: note: expanded from macro '__QOS_CLASS_AVAILABLE'
+#define __QOS_CLASS_AVAILABLE __API_AVAILABLE
+                              ^
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/stdlib.h:188:1: note: previous definition is here
+__API_AVAILABLE(macos(10.0)) __IOS_PROHIBITED
+^
+In file included from binder.cpp:20:
+In file included from ./project.h:25:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/iostream:38:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/ios:216:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__locale:18:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/mutex:191:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__mutex_base:17:
+In file included from /Library/Developer/CommandLineTools/usr/include/c++/v1/__threading_support:27:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread.h:73:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread/qos.h:34:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/qos.h:136:25: error: expected '= constant-expression' or end of enumerator definition
+                        __QOS_CLASS_AVAILABLE(macos(10.10), ios(8.0)) = 0x11,
+                                             ^
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+make: *** [binder.o] Error 1
+
+make failed, exit code 2
