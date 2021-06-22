@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My dissertation work is focused on the physiology of bat muscles in relation to the unique thermal environment imposed by flight. Flying animals must contend with 
+My dissertation work is focused on the physiology of bat muscles in relation to the unique thermal environment imposed by flight. Flying animals must contend with  
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
 
